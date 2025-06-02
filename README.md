@@ -35,10 +35,10 @@ Capture live network traffic using Wireshark and analyze protocols and traffic t
 ## Packet Details:
 
 ### TCP Packet
-- Source IP: 34.54.255.56
-- Destination IP: 192.168.125.252
-- Source Port: 443
-- Destination Port: 52692
+- Source IP: 192.168.125.252
+- Destination IP: 52.231.186.36
+- Source Port: 53559
+- Destination Port: 443
 - Flags: ACK
 
 ### DNS Packet
